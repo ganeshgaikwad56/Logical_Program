@@ -9,7 +9,9 @@ namespace Logical_Programing
             //PerfectNumber.FindPerfectNumber();
             //PrimeNumber.CheckPrimeNumber();
             // FibonacciSeries.Fibonacci();
-            ReverseNumber.ReverseThenNumber();
+            // ReverseNumber.ReverseThenNumber();
+            //SimulateStopwatch.StartWatch();
+            CoupanNumber.Generate();
         }
     }
 }
